@@ -5,7 +5,7 @@ hide:
 
 # 视频教程
 
-本页列出了一些 d.run 的操作视频，供用户参考。
+本页列出了一些操作视频，供用户参考。
 
 <div class="grid cards" markdown>
 
@@ -18,4 +18,4 @@ hide:
 
 </div>
 
-[注册并体验 d.run](https://console.d.run/){ .md-button }
+
