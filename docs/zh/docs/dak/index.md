@@ -5,7 +5,7 @@ hide:
 
 # 什么是 AI 应用
 
-d.run 智能问答（AI 应用）是基于 **RAG（Retrieval-Augmented Generation，检索增强生成）** 技术的智能对话产品。
+智能问答（AI 应用）是基于 **RAG（Retrieval-Augmented Generation，检索增强生成）** 技术的智能对话产品。
 它会先将您的专属语料库进行 **向量化处理**，并通过 **相似度搜索** 精准检索与问题相关的内容，再由
 **大语言模型（LLM）** 生成自然流畅的答案。这种方式不仅显著减少了模型的“幻觉”现象，还能在保障
 **隐私数据安全** 的同时，为您提供更精准、更个性化的回复。
@@ -17,8 +17,7 @@ d.run 智能问答（AI 应用）是基于 **RAG（Retrieval-Augmented Generatio
 - [实时优化](./data-analysis/qa-quality.md)：通过对话日志与数据分析，持续改进语料与问答质量。
 - [提升用户体验](./data-analysis/suggestions.md)：让回答更贴近实际需求，减少无效信息，增强交互价值。
 
-无论是在线客服、知识管理，还是内部知识检索，d.run 智能问答都能帮助您快速构建 **高效、可信、可控** 的 AI 知识服务体系。
+无论是在线客服、知识管理，还是内部知识检索，智能问答都能帮助您快速构建 **高效、可信、可控** 的 AI 知识服务体系。
 
 ![应用中心](./images/app-center.jpg)
 
-[注册并体验 d.run](https://console.d.run/){ .md-button .md-button--primary }
