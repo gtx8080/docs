@@ -21,4 +21,3 @@ hide:
 
 ![算力市场](images/market.png)
 
-[注册并体验 d.run](https://console.d.run/){ .md-button .md-button--primary }
