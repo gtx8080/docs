@@ -5,7 +5,7 @@ hide:
 
 # 注册账号
 
-**d.run** 是 DaoCloud 自主研发的企业级 AI 算力平台，基于云原生架构打造，
+**d.run** 是 一套企业级 AI 算力平台，基于云原生架构打造，
 集算力运营、模型广场、模型部署、推理及应用构建于一体，覆盖 AI 全流程。
 平台具备高效的异构 GPU 调度、灵活的资源管理和完善的安全运维机制，
 帮助用户以更低成本、更高效率运行大模型与 AI 应用。
@@ -13,9 +13,6 @@ hide:
 在统一的 Web 界面中，用户可完成模型管理、API 调用、向量检索配置及多类型 AI 应用创建，
 并享有透明计费与可视化运营支持，为企业与开发者提供一站式 AI 生产力解决方案。
 
-DaoCloud 是[经 CNCF 官方认证的 Kubernetes 提供商](https://landscape.cncf.io/?group=certified-partners-and-providers&item=platform--certified-kubernetes-distribution--daocloud-enterprise)，
-即 Kubernetes Certified Service Provider (KCSP)。
-目前在 [Certified Kubernetes - AI Platform](https://landscape.cncf.io/?group=certified-partners-and-providers) 细分子项中，DaoCloud 位列第一。
 
 !!! tip
 
@@ -45,4 +42,3 @@ DaoCloud 是[经 CNCF 官方认证的 Kubernetes 提供商](https://landscape.cn
 
 ![market](./images/regis01.png)
 
-[DeepSeek 大模型限时免费 2 周，速来薅羊毛！](https://console.d.run/){ .md-button .md-button--primary }
