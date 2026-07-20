@@ -40,10 +40,6 @@
 
     Agent Sandbox 不只是技术方案，更是长期命题：如何在赋能 AI 的同时，确保人类始终掌握控制权？
 
-* [DaoCloud 发起 Kubernetes 全新特性 Gang Scheduling，夯实 AI Infra 调度底座，全面适配 AI/ML 负载](./2025/gang-scheduling.md)
-
-    在 **AI Infra** 时代，Kubernetes 正在经历一次深刻的调度范式转变。
-
 * [AI Infra 创业潮：为什么“推理”将成为下一个独角兽赛道？](./2025/ai-infra.md)
 
     训练造贵族，推理造生意。2025~2030 是这个 OS 层的黄金窗口期。下一批独角兽，一定从推理层出生。
