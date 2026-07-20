@@ -137,4 +137,3 @@
 
     DaoCloud 牵头上海本地金融行业组织的算力与大模型产业研讨会。
 
-[注册并体验 d.run](https://console.d.run/){ .md-button .md-button--primary }
