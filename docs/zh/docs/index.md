@@ -24,7 +24,7 @@ hide:
 
     建议从 PC 端使用 Chrome 浏览器进行访问。
 
-<abbr title="DaoCloud Runs Intelligence">d.run</abbr> 支持以手机、邮箱注册账号。
+思明智算中心 支持以手机、邮箱注册账号。
 
 1. 在登录窗口点击 **注册**
 2. 填写用户名、邮箱、手机号，收到并填写验证码后，勾选：
