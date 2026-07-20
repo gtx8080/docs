@@ -5,7 +5,7 @@ hide:
 
 # 注册账号
 
-思明智算 是 一套企业级 AI 算力平台，基于云原生架构打造，
+思明智算中心 是 一套企业级 AI 算力平台，基于云原生架构打造，
 集算力运营、模型广场、模型部署、推理及应用构建于一体，覆盖 AI 全流程。
 平台具备高效的异构 GPU 调度、灵活的资源管理和完善的安全运维机制，
 帮助用户以更低成本、更高效率运行大模型与 AI 应用。
@@ -16,12 +16,11 @@ hide:
 
 !!! tip
 
-    <abbr title="DaoCloud Runs Intelligence">d.run</abbr> 让算力更自由。
-    [注册并体验 d.run](https://console.d.run/){ .md-button }
+    思明智算中心 让算力更自由。
+    [注册并体验 思明区人工智能产业公共服务平台](https://portal.smdata.com.cn/login/){ .md-button }
     [下载 d.run 用户手册 PDF](./images/d.run-docs.pdf){ .md-button }
     
-    <abbr title="DaoCloud Runs Intelligence">d.run</abbr> 是 DaoCloud 自研的
-    <abbr title="Artificial Intelligence Generated Content">AIGC</abbr> 综合性算力运维平台，
+    思明区人工智能产业公共服务平台 是综合性算力运维平台，
     整合云原生能力，为用户提供模型服务，构建智能问答体系，化算力为“算利”。
 
     建议从 PC 端使用 Chrome 浏览器进行访问。
