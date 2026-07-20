@@ -18,7 +18,6 @@ hide:
 
     思明智算中心 让算力更自由。
     [注册并体验 思明区人工智能产业公共服务平台](https://portal.smdata.com.cn/login/){ .md-button }
-    [下载 d.run 用户手册 PDF](./images/d.run-docs.pdf){ .md-button }
     
     思明区人工智能产业公共服务平台 是综合性算力运维平台，
     整合云原生能力，为用户提供模型服务，构建智能问答体系，化算力为“算利”。
